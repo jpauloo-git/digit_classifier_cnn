@@ -1,6 +1,6 @@
 # digit_classifier_cnn
 
-Esse código define um sistema para classificar dígitos de 0 a 9 em uma imagem 8x8, usando redes neurais convolucionais (CNN). Aqui está uma explicação detalhada de cada parte:
+Esse código define um sistema para classificar dígitos de 0 a 9 em uma imagem 8x8, usando redes neurais convolucionais (CNN). A seguir, umabreve explicação para as pricipais cada partes do código.
 
 Importação de bibliotecas:
 
